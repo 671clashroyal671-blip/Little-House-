@@ -1,0 +1,17 @@
+/build/
+/build-*/
+/build-release/
+/cmake-build-/
+/out/
+/dist/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+Makefile
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.lhe/
