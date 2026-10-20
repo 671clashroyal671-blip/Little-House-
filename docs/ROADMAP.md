@@ -4,10 +4,10 @@ A checkbox means implemented and verified, not merely planned.
 
 ## Milestone 0 — Repository and editor foundation
 
-- [x] Establish C++20 and CMake project configuration.
-- [x] Add an SDL3 desktop window and Dear ImGui docking shell source.
-- [x] Plan an in-memory hierarchy and editable transform fields in the editor shell.
-- [x] Mark the scene viewport as a placeholder.
+- [ ] Establish C++20 and CMake project configuration and verify it with a successful build.
+- [ ] Add an SDL3 desktop window and Dear ImGui docking shell, then verify it runs.
+- [ ] Verify hierarchy selection and inspector editing in a running editor.
+- [x] Label the viewport honestly as a placeholder (documentation/source review only).
 - [ ] Build and run on Windows, Linux, and macOS.
 - [ ] Add automated build checks for supported platforms.
 
